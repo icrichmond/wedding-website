@@ -6,9 +6,13 @@ We can't wait to share this day with you! Here is all the information you need t
 
 If there's info you need that isn't here, text us!!
 
-## Date
+## Date & Schedule 
 
 Our wedding is on **Saturday, September 12th from 3 pm - midnight**
+
+
+Our ceremony will take place at 3 pm, followed by games/drinks/photos/fun times. Dinner will be served at 6 pm, to be followed by dancing! 
+
 
 ## Location
 
@@ -29,18 +33,43 @@ leaflet() %>%
 
 ### Camping
 
-The Récreoparc is a campground! 
+The Récreoparc is a campground! We have reserved several sites on **Friday and Saturday** nights for anyone who wants to camp. We will be staying there both nights! 
+
+If you are using one of the sites we have reserved, you will most likely have to share with some other folks (but don't worry, everyone on the list is very cool). 
+
+If you are travelling far and/or don't have camping stuff, let us know! We will try to get enough gear for everyone who wants to participate to be able to.
+
+The Récreoparc has showers, a cafeteria, and a café in the welcome pavillion accessible to all campers. We will also plan to have meals available to folks camping on Friday eve, and Saturday morning + lunchtime. 
+
+For those interested, the Récreoparc is located on a bike path! If you live/are staying in Montréal and want to arrive by bike, all campsites are equipped with a bike rack.
 
 
 ### Other lodging
 
+We see and LOVE all our non-camper guests. We intentionally selected our venue so that it was in very close proximity to all the wonderful hotels available in Montréal. 
+
+The Récreoparc is close enough to the city that you will be able to bike, take a cab, drive, or use the shuttle service to get to the wedding if you are staying in the city. Please enjoy all the luxury that Montréal has to offer! 
+
 ## Transportation
 
 ### Wedding Shuttle
+If there is sufficient interest, we will plan to get a shuttle that will be available to transport guests from downtown Montréal to the Récreoparc. 
+
+We will have the shuttle leave from a central destination in time for the ceremony and have it return after we eat. 
 
 ### Venue Parking
 
+If you are driving, you are welcome to park at the Récreoparc. We will be closest to P3 and parking can be paid for on site. If you are unable to drive home after the event, you are welcome to leave your car overnight and come get it in the morning.
+
 ### Getting downtown from the airport
+
+If you are flying in (thank you!!!!), there are a few ways to get downtown from the airport. 
+
+1. The 747 bus that goes directly from the airport to Lionel-Groulx metro station. You can buy a day pass ($11) in the airport and use it to get on the bus and then wherever you need to go from there. 
+
+2. There are of course ubers, lyfts, taxis, and whatsits at the airport ready to take you anywhere you need to go. English will not be a problem! 
+
+3. Getting to Montréal early? Text us, Bella would love to come scoop you from the airport.
 
 
 ## Gifts
