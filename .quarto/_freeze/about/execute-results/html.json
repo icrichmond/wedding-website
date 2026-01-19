@@ -1,0 +1,19 @@
+{
+  "hash": "5e94766bfd2682a09d8004bf6e425d08",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\n---\n\nWe can't wait to share this day with you! Here is all the information you need to participate in whatever way works best for you.\n\nIf there's info you need that isn't here, text us!!\n\n## Date\n\nOur wedding is on **Saturday, September 12th from 3 pm - midnight**\n\n## Location\n\nWe are getting married at the [Récreoparc](https://recreoparc.org/), 5340 Bd Marie-Victorin, Sainte-Catherine, QC J5C 1L9. We are \\~ a 20 minute drive from Montréal (see [Transportation], below).\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"leaflet html-widget html-fill-item\" id=\"htmlwidget-12f4bc1dd2a6a76c29e7\" style=\"width:100%;height:464px;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-12f4bc1dd2a6a76c29e7\">{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addProviderTiles\",\"args\":[\"CartoDB.Positron\",null,null,{\"errorTileUrl\":\"\",\"noWrap\":false,\"detectRetina\":false}]},{\"method\":\"addMarkers\",\"args\":[45.410223,-73.587183,null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},\"Our Wedding!!\",null,null,null,null,{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"limits\":{\"lat\":[45.410223,45.410223],\"lng\":[-73.587183,-73.587183]}},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n## Lodgings\n\n### Camping\n\nThe Récreoparc is a campground! \n\n\n### Other lodging\n\n## Transportation\n\n### Wedding Shuttle\n\n### Venue Parking\n\n### Getting downtown from the airport\n\n\n## Gifts\n\nThe greatest gift any of you could give us has already been given! We are so grateful to each of you for your friendship, love, and support. Many of you are travelling very far distances to join us, and all of you are giving us your precious time and energy. For that reason, we respectfully request **no gifts**.\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"site_libs/htmltools-fill-0.5.8.1/fill.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<script src=\"site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"site_libs/leaflet-1.3.1/leaflet.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/leaflet-1.3.1/leaflet.js\"></script>\n<link href=\"site_libs/leafletfix-1.0.0/leafletfix.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/proj4-2.6.2/proj4.min.js\"></script>\n<script src=\"site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js\"></script>\n<link href=\"site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/leaflet-binding-2.2.3/leaflet.js\"></script>\n<script src=\"site_libs/leaflet-providers-2.0.0/leaflet-providers_2.0.0.js\"></script>\n<script src=\"site_libs/leaflet-providers-plugin-2.2.3/leaflet-providers-plugin.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

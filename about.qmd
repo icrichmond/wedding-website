@@ -1,0 +1,49 @@
+---
+title: ""
+---
+
+We can't wait to share this day with you! Here is all the information you need to participate in whatever way works best for you.
+
+If there's info you need that isn't here, text us!!
+
+## Date
+
+Our wedding is on **Saturday, September 12th from 3 pm - midnight**
+
+## Location
+
+We are getting married at the [Récreoparc](https://recreoparc.org/), 5340 Bd Marie-Victorin, Sainte-Catherine, QC J5C 1L9. We are \~ a 20 minute drive from Montréal (see [Transportation], below).
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+
+library(leaflet)
+leaflet() %>%
+  addProviderTiles(providers$CartoDB.Positron) %>% 
+  addMarkers(lng=-73.587183, lat=45.410223, popup="Our Wedding!!")
+```
+
+## Lodgings
+
+### Camping
+
+The Récreoparc is a campground! 
+
+
+### Other lodging
+
+## Transportation
+
+### Wedding Shuttle
+
+### Venue Parking
+
+### Getting downtown from the airport
+
+
+## Gifts
+
+The greatest gift any of you could give us has already been given! We are so grateful to each of you for your friendship, love, and support. Many of you are travelling very far distances to join us, and all of you are giving us your precious time and energy. For that reason, we respectfully request **no gifts**.
+
