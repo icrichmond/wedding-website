@@ -2,6 +2,6 @@
 title: "We are so excited to share this day with you!"
 ---
 
-Please check out the Information tab for all the details you need. RSVP using the RSVP tab so we know if you are joining us.
+We hope you can join us on our wedding adventure that will include bonfires, yummy food, camping, dancing, lots of love, and more! Please check out the Information tab for all the details you need. RSVP using the RSVP tab so we know if you are joining us.
 
-![](imgs/laughing.jpeg){width="60%"}
+![](imgs/laughing.jpeg){fig-align="center" width="60%"}

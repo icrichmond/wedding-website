@@ -14,9 +14,11 @@ Our wedding is on **Saturday, September 12th from 3 pm - midnight**
 Our ceremony will take place at 3 pm, followed by games/drinks/photos/fun times. Dinner will be served at 6 pm, to be followed by dancing! 
 
 
+Please note that the ceremony, dinner, and dancing will all take place outdoors. There are bathrooms located close by. The festivities will take place on a grassy lawn with tables and chairs, so wear whatever clothes & footwear feel right for you! 
+
 ## Location
 
-We are getting married at the [Récreoparc](https://recreoparc.org/), 5340 Bd Marie-Victorin, Sainte-Catherine, QC J5C 1L9. We are \~ a 20 minute drive from Montréal (see [Transportation], below).
+We are getting married at the [Récreoparc](https://recreoparc.org/), 5340 Bd Marie-Victorin, Sainte-Catherine, QC J5C 1L9. We will be \~ a 20 minute drive from Montréal (see [Transportation], below).
 
 ```{r}
 #| message: false
@@ -74,5 +76,5 @@ If you are flying in (thank you!!!!), there are a few ways to get downtown from 
 
 ## Gifts
 
-The greatest gift any of you could give us has already been given! We are so grateful to each of you for your friendship, love, and support. Many of you are travelling very far distances to join us, and all of you are giving us your precious time and energy. For that reason, we respectfully request **no gifts**.
+The greatest gift any of you could give us has already been given! We are so grateful to each of you for your friendship, love, and support. Many of you are travelling very far distances to join us, and all of you are giving us your precious time and energy. For those reasons, we respectfully request **no gifts**.
 
