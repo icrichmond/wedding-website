@@ -5,6 +5,7 @@ format:
     page-layout: full
 ---
 
+*please be patient, sometimes the RSVP form is slow to load*
 
 ```{=html}
 <iframe src="https://icrichmond.shinyapps.io/bella_and_haley/" width="100%" height="800" frameborder="0"></iframe>
